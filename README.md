@@ -1,16 +1,14 @@
-## Hi there 👋
+### Bem-vindos ao meu perfil!
 
-<!--
-**tecfarias013/tecfarias013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samuel Farias
 
-Here are some ideas to get you started:
+Estou estudando na [Alura](https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou desenvolvendo estudos de tecnologia
+
+
+### Você pode entrar em contato comigo 📬 
+
+samtecfarias333@gmail.com 
+
+![](https://media1.tenor.com/m/SlZY7llSw_EAAAAC/skeletor-laughs-in-evil-laughing-myah-myaah-dasmemeistgut.gif)
